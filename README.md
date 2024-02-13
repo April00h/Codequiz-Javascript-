@@ -19,7 +19,7 @@ This shows the option to enter the information in the scoreboard
 ## Deployed Application
 
 View below:
-[Here]( )
+[Here](https://april00h.github.io/Codequiz-Javascript-/)
 
 
 
